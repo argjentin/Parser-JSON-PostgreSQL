@@ -8,6 +8,6 @@ npm install
 
 Create an .env file with the port number
 
-Create Tables and Inserts from /sql
+Create Tables from /sql
 
 npm start
